@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import base64
+pip install openpyxl
 
 def convert_to_kbps(x):
     if isinstance(x, str):
